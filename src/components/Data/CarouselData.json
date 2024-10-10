@@ -1,0 +1,25 @@
+{
+    "slides" : [
+      {
+        "imageURL" : "https://m.media-amazon.com/images/M/MV5BMjE1NjMxMDUyM15BMl5BanBnXkFtZTgwODMzNDM1NTE@._V1_FMjpg_UX1000_.jpg",
+        "name" : "Justin Bieber",
+        "testimony" : "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type. it to make a type specimen book."  
+      },
+      {
+        "imageURL" : "https://pbs.twimg.com/profile_images/625247595825246208/X3XLea04_400x400.jpg",
+        "name" : "Jack Bauer",
+        "testimony" : "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book."  
+      },
+      {
+        "imageURL" : "https://blackhistorywall.files.wordpress.com/2010/02/picture-device-independent-bitmap-119.jpg",
+        "name" : "Beyonce",
+        "testimony" : "Lorem Ipsum is simply dummy text of the printing. lorem ipsum dolor sit amit. dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book."  
+      },
+      {
+        "imageURL" : "https://i.pinimg.com/originals/e3/94/47/e39447de921955826b1e498ccf9a39af.png",
+        "name" : "Chuck Norris",
+        "testimony" : "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard. the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book."  
+      }
+     
+    ]
+  }
